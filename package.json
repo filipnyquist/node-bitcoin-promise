@@ -13,7 +13,7 @@
   "contributors": [
   ],
   "dependencies": {
-	"bitcoin": ">= 3.0.0"
+	"bitcoin": "filipnyquist/node-bitcoin-promise"
   },
   "devDependencies": {
   },
