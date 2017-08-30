@@ -23,7 +23,7 @@
     "url": "git://github.com/rcorbish/node-bitcoin-promise.git"
   },
   "engines": {
-    "node": ">= 0.10.0"
+    "node": ">= 4.10.0"
   },
   "scripts": {
     "test": "make test"
