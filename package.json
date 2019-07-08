@@ -13,7 +13,7 @@
   "contributors": [
   ],
   "dependencies": {
-	"bitcoin": "filipnyquist/node-bitcoin#17552efad852a0ae929dc153988649259536a23d"
+	"bitcoin": "filipnyquist/node-bitcoin"
   },
   "devDependencies": {
   },
